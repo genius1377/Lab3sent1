@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Lab3sent1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE722A-91FA-4951-8DC5-F2B153DCD187}|Lab3sent1\\Lab3sent1.vcxproj|C:\\Users\\USER\\source\\repos\\Lab3sent1\\Lab3sent1\\Lab3sent1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77DE722A-91FA-4951-8DC5-F2B153DCD187}|Lab3sent1\\Lab3sent1.vcxproj|solutionrelative:Lab3sent1\\Lab3sent1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3sent1.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Lab3sent1\\Lab3sent1\\Lab3sent1.cpp",
+              "RelativeDocumentMoniker": "Lab3sent1\\Lab3sent1.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Lab3sent1\\Lab3sent1\\Lab3sent1.cpp*",
+              "RelativeToolTip": "Lab3sent1\\Lab3sent1.cpp*",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwMcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T23:07:39.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

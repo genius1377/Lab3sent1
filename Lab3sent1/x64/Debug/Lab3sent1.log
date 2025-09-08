@@ -1,0 +1,6 @@
+﻿  Lab3sent1.cpp
+C:\Users\USER\source\repos\Lab3sent1\Lab3sent1\Lab3sent1.cpp(198,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Lab3sent1\Lab3sent1\Lab3sent1.cpp(197,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Lab3sent1\Lab3sent1\Lab3sent1.cpp(196,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\USER\source\repos\Lab3sent1\Lab3sent1\Lab3sent1.cpp(195,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Lab3sent1.vcxproj -> C:\Users\USER\source\repos\Lab3sent1\x64\Debug\Lab3sent1.exe
